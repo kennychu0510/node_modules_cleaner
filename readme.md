@@ -1,5 +1,5 @@
 **Scan and Delete node_modules recursively**
 
-Run as a CLI tool
-Flag -p to give the path of directory to be scanned
-Flag -d to indicate whether to delete the node_modules found in the directory
+Run as a CLI tool <br/>
+Flag -p to give the path of directory to be scanned <br/>
+Flag -d to indicate whether to delete the node_modules found in the directory <br/>
